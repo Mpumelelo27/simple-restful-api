@@ -1,4 +1,4 @@
-package za.co.mkhabelalucas.simplerestfulapi.constatns;
+package za.co.mkhabelalucas.simplerestfulapi.constants;
 
 public class Constants {
 

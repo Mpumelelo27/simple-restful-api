@@ -6,7 +6,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
-import za.co.mkhabelalucas.simplerestfulapi.constatns.Constants;
+import za.co.mkhabelalucas.simplerestfulapi.constants.Constants;
 import za.co.mkhabelalucas.simplerestfulapi.entity.NewsEntity;
 import za.co.mkhabelalucas.simplerestfulapi.service.NewsService;
 

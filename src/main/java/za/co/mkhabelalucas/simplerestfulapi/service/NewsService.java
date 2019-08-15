@@ -3,7 +3,7 @@ package za.co.mkhabelalucas.simplerestfulapi.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import za.co.mkhabelalucas.simplerestfulapi.constatns.Constants;
+import za.co.mkhabelalucas.simplerestfulapi.constants.Constants;
 import za.co.mkhabelalucas.simplerestfulapi.entity.NewsEntity;
 import za.co.mkhabelalucas.simplerestfulapi.repository.NewsRepository;
 
