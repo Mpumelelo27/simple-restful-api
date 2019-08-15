@@ -15,9 +15,9 @@ import java.util.logging.Logger;
 public class NewsService {
 
     @Autowired
-    NewsRepository newsRepository;
+    private NewsRepository newsRepository;
 
-    Logger logger = Logger.getLogger(NewsService.class.getSimpleName());
+    private Logger logger = Logger.getLogger(NewsService.class.getSimpleName());
 
 
     public List<NewsEntity> getAllNews() {
